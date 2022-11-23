@@ -106,9 +106,6 @@ export default defineComponent({
     line-height: 60px;
   }
 }
-.el-menu-vertical-demo {
-  // background-color: rgb(236, 131, 131);
-}
 .el-main {
   background-color: rgb(238, 241, 246);
 }
